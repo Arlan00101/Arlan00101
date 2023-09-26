@@ -6,7 +6,7 @@
                 border-radius:50%;
             }
             </style>
-            <img src="yama.JPG"/>
+            <img src="./yama.JPG"/>
         </div>
     </foreignObject>
 </svg>
