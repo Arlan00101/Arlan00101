@@ -1,1 +1,1 @@
-<h1 align="center">Cristhian Arlan Cecilio Tejeda <br> <img width="100px" height="100px" src="test.svg"/> </h1>
+<h1 align="center">Cristhian Arlan Cecilio Tejeda <br> <img src="test.svg"/> </h1>
