@@ -1,5 +1,5 @@
 # 🐱‍👤 About Me:
-Soy un desarrollador con más de cinco años de experiencia en el desarrollo de aplicaciones web. <br>Me apasiona crear soluciones innovadoras y eficientes que satisfagan las  necesidades de los <br>usuarios y los clientes. Tengo conocimientos avanzados en varios lenguajes de programación, como<br>Java, Python, JavaScript y C#. También domino el uso de frameworks y herramientas como: Django, <br>React y Vue. Me considero una persona proactiva, creativa, responsable y comprometida con mi trabajo. <br>Me gusta aprender cosas nuevas y estar al día con las últimas tendencias y tecnologías del sector.
+Soy un desarrollador con experiencia en el desarrollo de aplicaciones web. <br>Me apasiona crear soluciones innovadoras y eficientes que satisfagan las  necesidades de los <br>usuarios y los clientes. Tengo conocimientos avanzados en varios lenguajes de programación, como<br>Java, Python, JavaScript y C#. También domino el uso de frameworks y herramientas como: Django, <br>React y Vue. Me considero una persona proactiva, creativa, responsable y comprometida con mi trabajo. <br>Me gusta aprender cosas nuevas y estar al día con las últimas tendencias y tecnologías del sector.
 
 
 # 💻 Tech Stack:
