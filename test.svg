@@ -2,11 +2,20 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            img {
+            .cont {
+                width:100%;
+                height:100vh;
+                display:flex;
+                align-items:center;
+                justify-content:center;
+                font-size:15rem;
+                background-color:blue;
                 border-radius:50%;
             }
             </style>
-            <img src="./yama.JPG"/>
+            <div class="cont">
+                <span>🐱‍💻</span>
+            </div>
         </div>
     </foreignObject>
 </svg>
