@@ -3,7 +3,6 @@
 <h1 align="center"><img src="./test.svg"/></h1>
 
 # Stats:
----
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arlan00101&count_private=true&show_icons=true" alt="Arlan00101" /></p>
 <p align="center">
