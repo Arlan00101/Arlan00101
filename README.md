@@ -1,4 +1,6 @@
-<h1 align="center">Cristhian Arlan Cecilio Tejeda <br> <img src="./test.svg"/> </h1>
+<h1 align="center">Cristhian Arlan Cecilio Tejeda </h1>
+
+<h1 align="center"><img src="./test.svg"/></h1>
 
 # Stats:
 ---
